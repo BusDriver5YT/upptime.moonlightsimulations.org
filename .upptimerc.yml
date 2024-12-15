@@ -43,6 +43,8 @@ status-website:
       href: /
     - title: Main Site
       href: https://www.moonlightsimulations.org
+      - title: SCN Status
+      href: https://status.starlightgaming.network
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
