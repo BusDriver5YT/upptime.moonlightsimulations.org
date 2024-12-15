@@ -1,36 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: BusDriver5 # Your GitHub organization or username, where this repository lives
+repo: upptime.moonlightsimulations.org # The name of this repository
+
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Moonlight Simulations
+    url: https://www.moonlightsimulations.org
+  - name: MSRP Server & Admin Panel
+    url: https://www.moonlightsimulations.org:3041
+    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
+  - name: Moonlight Simulations Cad
+    url: https://msrpcad.starlightgaming.net
+    icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: https://github.com/BusDriver5YT/upptime.moonlightsimulations.org
+  theme: night
+  logoUrl: https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png
+  favicon: https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  metaTags:
+    - name: "theme-color"
+      content: "#fe5926" 
+    - name: "og:site_name"
+      content: "Moonlight Simulations Powered By Upptime"
+    - name: "og:type"
+      content: "website" 
+    - name: "og:title"
+      content: "Moonlight Simulations | Status"
+    - name: "og:description"
+      content: "Stay informed with real-time updates on our service status. Check for outages, scheduled maintenance, and performance metrics to ensure seamless connectivity."
+    - name: "og:image"
+      content: "https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Main Site
+      href: https://www.moonlightsimulations.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
