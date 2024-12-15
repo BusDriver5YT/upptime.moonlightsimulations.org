@@ -16,12 +16,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://github.com/BusDriver5YT/upptime.moonlightsimulations.org
+  cname: upptime.moonlightsimulations.org
   theme: night
   logoUrl: https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png
   favicon: https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png
   # baseUrl: /your-repo-name
-  name: Upptime
+  name: Moonlight Simulations
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   metaTags:
