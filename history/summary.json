@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1328,
-    "timeDay": 1328,
-    "timeWeek": 1328,
-    "timeMonth": 1328,
-    "timeYear": 1328,
+    "time": 1119,
+    "timeDay": 1119,
+    "timeWeek": 1119,
+    "timeMonth": 1119,
+    "timeYear": 1119,
     "dailyMinutesDown": {}
   },
   {
     "name": "MSRP Server & Admin Panel",
-    "url": "https://www.moonlightsimulations.org:3041",
+    "url": "https://roleplay.moonlightsimulations.org:3041",
     "icon": "https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png",
     "slug": "msrp-server-and-admin-panel",
     "status": "down",
-    "uptime": "2.19%",
-    "uptimeDay": "2.19%",
-    "uptimeWeek": "2.19%",
-    "uptimeMonth": "2.19%",
-    "uptimeYear": "2.19%",
+    "uptime": "1.91%",
+    "uptimeDay": "1.91%",
+    "uptimeWeek": "1.91%",
+    "uptimeMonth": "1.91%",
+    "uptimeYear": "1.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 22
+      "2024-12-15": 26
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1600,
-    "timeDay": 1600,
-    "timeWeek": 1600,
-    "timeMonth": 1600,
-    "timeYear": 1600,
+    "time": 1317,
+    "timeDay": 1317,
+    "timeWeek": 1317,
+    "timeMonth": 1317,
+    "timeYear": 1317,
     "dailyMinutesDown": {}
   }
 ]
