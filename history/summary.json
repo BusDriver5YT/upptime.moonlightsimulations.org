@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 418,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "time": 386,
+    "timeDay": 386,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png",
     "slug": "msrp-server-and-admin-panel",
     "status": "down",
-    "uptime": "90.98%",
-    "uptimeDay": "90.98%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "90.98%",
-    "uptimeYear": "90.98%",
+    "uptime": "19.38%",
+    "uptimeDay": "19.38%",
+    "uptimeWeek": "19.38%",
+    "uptimeMonth": "19.38%",
+    "uptimeYear": "19.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-15": 0
+      "2024-12-15": 2
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 267,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "time": 2247,
+    "timeDay": 2247,
+    "timeWeek": 2247,
+    "timeMonth": 2247,
+    "timeYear": 2247,
     "dailyMinutesDown": {}
   }
 ]
