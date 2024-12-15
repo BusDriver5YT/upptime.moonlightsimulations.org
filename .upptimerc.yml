@@ -1,7 +1,8 @@
 # Change these first
 owner: BusDriver5YT # Your GitHub organization or username, where this repository lives
 repo: upptime.moonlightsimulations.org # The name of this repository
-
+skipDeleteIssues: true
+user-agent: upptime-bot
 
 sites:
   - name: Moonlight Simulations
@@ -17,7 +18,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.moonlightsimulations.org
-  theme: night
+  theme: Dark
   logoUrl: https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png
   favicon: https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png
   # baseUrl: /your-repo-name
