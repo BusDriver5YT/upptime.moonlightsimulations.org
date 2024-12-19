@@ -11,7 +11,7 @@ sites:
     url: http://roleplay.moonlightsimulations.org:3041
     icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
   - name: Moonlight Simulations Cad
-    url: https://msrpcad.starlightgaming.net
+    url: http://cad.moonlightsimulations.org
     icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
 
 status-website:
