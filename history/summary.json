@@ -4,19 +4,19 @@
     "url": "https://www.moonlightsimulations.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.moonlightsimulations.org.ico",
     "slug": "moonlight-simulations",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 245,
-    "timeWeek": 437,
-    "timeMonth": 489,
-    "timeYear": 502,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 498,
+    "timeDay": 280,
+    "timeWeek": 422,
+    "timeMonth": 484,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 20
     }
   },
   {
