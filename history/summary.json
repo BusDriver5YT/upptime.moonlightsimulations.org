@@ -4,9 +4,9 @@
     "url": "https://www.moonlightsimulations.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.moonlightsimulations.org.ico",
     "slug": "moonlight-simulations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 437,
     "timeMonth": 489,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "MSRP Server & Admin Panel",
@@ -25,12 +27,12 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.28%",
     "time": 1722,
     "timeDay": 1023,
-    "timeWeek": 869,
+    "timeWeek": 875,
     "timeMonth": 1757,
     "timeYear": 1722,
     "dailyMinutesDown": {
