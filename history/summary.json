@@ -25,15 +25,15 @@
     "icon": "https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png",
     "slug": "msrp-server-and-admin-panel",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "98.05%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "98.07%",
     "time": 1902,
     "timeDay": 739,
     "timeWeek": 737,
-    "timeMonth": 2308,
+    "timeMonth": 2122,
     "timeYear": 1902,
     "dailyMinutesDown": {
       "2025-03-01": 11,
@@ -63,7 +63,7 @@
     "url": "http://cad.moonlightsimulations.org",
     "icon": "https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png",
     "slug": "moonlight-simulations-cad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,6 +75,7 @@
     "timeMonth": 573,
     "timeYear": 568,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2024-12-19": 56
     }
   }
