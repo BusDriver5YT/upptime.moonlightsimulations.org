@@ -6,12 +6,12 @@ user-agent: upptime-bot
 
 sites:
   - name: Moonlight Simulations
-    url: https://www.moonlightsimulations.org
+    url: https://bounce.moonlightsimulations.org
   - name: MSRP Server & Admin Panel
-    url: http://roleplay.moonlightsimulations.org:30035
+    url: https://bounce.moonlightsimulations.org
     icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
   - name: Moonlight Simulations Cad
-    url: http://cad.moonlightsimulations.org
+    url: https://bounce.moonlightsimulations.org
     icon: https://static.wixstatic.com/media/af0f76_fda78d8d370440ce8320fd7f31936dc4~mv2.png
 
 status-website:
@@ -23,8 +23,8 @@ status-website:
   favicon: https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png
   # baseUrl: /your-repo-name
   name: Moonlight Simulations
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Our status page is going away today on 2026"
+  introMessage: We are moving over to [SCN's Status Page](https://status.starlightcommunity.network) as its not worth updating 2 status pages now that Moonlight RP is shuting down we appreate your support and we hope to see you there.
   metaTags:
     - name: "theme-color"
       content: "#fe5926" 
@@ -33,11 +33,13 @@ status-website:
     - name: "og:type"
       content: "website" 
     - name: "og:title"
-      content: "Moonlight Simulations | Status"
+      content: "Moonlight Simulations | Status (Going Away)"
     - name: "og:description"
       content: "Stay informed with real-time updates on our service status. Check for outages, scheduled maintenance, and performance metrics to ensure seamless connectivity."
     - name: "og:image"
       content: "https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png"
+    - name: "http-equiv="Refresh"
+      content: "content="15; url='https://satus.starlightcommunity.network'"
   navbar:
     - title: Status
       href: /
