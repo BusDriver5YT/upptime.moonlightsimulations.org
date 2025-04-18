@@ -38,8 +38,6 @@ status-website:
       content: "Stay informed with real-time updates on our service status. Check for outages, scheduled maintenance, and performance metrics to ensure seamless connectivity."
     - name: "og:image"
       content: "https://static.wixstatic.com/media/8f3f10_af4b5258a29342a583a6d8b5b582ba08~mv2.png"
-    - name: "http-equiv="Refresh"
-      content: "content="15; url='https://satus.starlightcommunity.network'"
   navbar:
     - title: Status
       href: /
